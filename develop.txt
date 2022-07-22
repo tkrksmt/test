@@ -1,7 +1,9 @@
 develop
  dev-1
+  - git revert practice 1.5
  dev-2
   - modify 1
+  - modify 2
  dev-3
   git revert practice
  dev-4 
