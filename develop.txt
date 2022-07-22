@@ -1,8 +1,10 @@
 develop
  dev-1
+  - 1abcdefg
   - git revert practice 1.5
  dev-2
+  - 2abcdefg
   - modify 1
   - modify 2
  dev-3
- 
+  - 3abcdefg
